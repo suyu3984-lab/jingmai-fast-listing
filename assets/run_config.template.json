@@ -1,0 +1,18 @@
+{
+  "store_name": "示例店铺（请替换）",
+  "save_mode": "submit_off_shelf",
+  "execution_mode": "adaptive",
+  "category_path": "工业品 > 安防用品 > 安防监控 > 其它监控器材及配件",
+  "brand": "已授权品牌（请替换）",
+  "template_ware_id": "10000000000000",
+  "default_stock": 10,
+  "remove_title_terms": ["需要删除的品牌词"],
+  "return_policy": "不支持7天无理由退货",
+  "restrict_special_vat_invoice": true,
+  "dispatch_time": "48小时发货",
+  "freight_template": "卖家包邮",
+  "overseas_sale": "否",
+  "image_strategy": "replace_all",
+  "network_recovery": "auto_reground",
+  "fast_mode_requires_matching_profile": true
+}
