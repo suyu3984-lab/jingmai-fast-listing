@@ -1,0 +1,4 @@
+interface:
+  display_name: "京麦快速上架 V2.1"
+  short_description: "支持通用图片继承、按需换图、断网恢复和防重复的京麦批量暂不上架流程"
+  default_prompt: "Use $jingmai-fast-off-shelf to submit a bounded Jingmai batch off shelf while applying each product image strategy and preserving restart-safe recovery."
