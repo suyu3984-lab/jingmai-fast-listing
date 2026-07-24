@@ -1,0 +1,4 @@
+sequence,title,model,price,stock,image_strategy,image_path,main_images_json,detail_images_json,dispatch_time,source_url,attributes_json
+1,通用图商品 1001,1001,4250,10,inherit_template,,,,48小时发货,https://example.com/product/1,"{""型号"":""1001""}"
+2,需要全部换图的商品 1002,1002,4280,10,replace_all,C:\商品图片\02\01_成品.png,"[""C:\商品图片\02\01_成品.png""]","[""C:\商品图片\02\详情01.png"",""C:\商品图片\02\详情02.png""]",48小时发货,https://example.com/product/2,"{""型号"":""1002""}"
+3,只换主图的商品 1003,1003,3980,10,replace_main_only,C:\商品图片\03\01_成品.png,"[""C:\商品图片\03\01_成品.png""]",,48小时发货,https://example.com/product/3,"{""型号"":""1003""}"
